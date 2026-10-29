@@ -89,14 +89,14 @@ The designed circuit was simulated and evaluated to verify its ability to suppre
 
 **10. Repository Structure** 
 
-surge-protection-circuit/ 
-│ 
-├── README.md 
-├── Schematics/ 
-├── Simulation/ 
-├── PCB/ 
-├── Images/ 
-└── Documentation/ 
+surge-protection-circuit/
+│
+├── README.md
+├── Schematics/
+├── Simulation/
+├── PCB/
+├── Images/
+└── Documentation/
 
 **11. Author** 
 
